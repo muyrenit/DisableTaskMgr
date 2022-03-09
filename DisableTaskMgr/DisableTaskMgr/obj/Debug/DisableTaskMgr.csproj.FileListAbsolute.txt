@@ -1,0 +1,11 @@
+C:\Users\Alp\source\repos\DisableTaskMgr\DisableTaskMgr\bin\Debug\DisableTaskMgr.exe.config
+C:\Users\Alp\source\repos\DisableTaskMgr\DisableTaskMgr\bin\Debug\DisableTaskMgr.exe
+C:\Users\Alp\source\repos\DisableTaskMgr\DisableTaskMgr\bin\Debug\DisableTaskMgr.pdb
+C:\Users\Alp\source\repos\DisableTaskMgr\DisableTaskMgr\obj\Debug\DisableTaskMgr.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\DisableTaskMgr\DisableTaskMgr\obj\Debug\DisableTaskMgr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alp\source\repos\DisableTaskMgr\DisableTaskMgr\obj\Debug\DisableTaskMgr.Form1.resources
+C:\Users\Alp\source\repos\DisableTaskMgr\DisableTaskMgr\obj\Debug\DisableTaskMgr.Properties.Resources.resources
+C:\Users\Alp\source\repos\DisableTaskMgr\DisableTaskMgr\obj\Debug\DisableTaskMgr.csproj.GenerateResource.cache
+C:\Users\Alp\source\repos\DisableTaskMgr\DisableTaskMgr\obj\Debug\DisableTaskMgr.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\DisableTaskMgr\DisableTaskMgr\obj\Debug\DisableTaskMgr.exe
+C:\Users\Alp\source\repos\DisableTaskMgr\DisableTaskMgr\obj\Debug\DisableTaskMgr.pdb
